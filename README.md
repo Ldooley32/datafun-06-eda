@@ -31,7 +31,9 @@ Project 6: a customed EDA
 3. Add a **.gitignore** file to your project with useful entries. Use [.gitignore](.gitignore) example.
 
 ### 2. Project Start
-1. Create the Notebook: In the VS Code Explorer, create a new file i.e., yourname_eda.ipynb. Ensure it has a .ipynb extension.
-2. Verify your new notebook is open for editing. If needed, view the project files in VS Code Explorer and double-click the notebook file to open it for editing.
-3. Add a Markdown cell at the top of your notebook with the introduction (include the title, author, date and the purpose of the project).
+1. Create the Notebook: In the VS Code Explorer, create a new file i.e., ldooley_eda.ipynb. Ensure it has a .ipynb extension.
+2. data to use for project
+       https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
+4. Verify your new notebook is open for editing. If needed, view the project files in VS Code Explorer and double-click the notebook file to open it for editing.  
+6. Add a Markdown cell at the top of your notebook with the introduction (include the title, author, date and the purpose of the project).
 
